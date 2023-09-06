@@ -74,6 +74,10 @@ aside {
     width: 20%;
 }
 
+.single_page {
+    width: 100%;
+}
+
 #lower_area {
     display: flex;
 }
