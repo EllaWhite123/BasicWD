@@ -1,11 +1,12 @@
 body {
     background-color: #ffa658;
+    font-family: monospace;
 }
 
 img {
     display: block;
     margin: 0% auto;
-    width: 50%;
+    width: 60%;
 }
 
 h1,
@@ -13,7 +14,7 @@ h2,
 h3 {
     color: rgb(0, 0, 0);
     text-align: center;
-    
+    font-family: fantasy;
 }
 
 
@@ -43,6 +44,7 @@ nav li a {
     text-decoration: none;
     font-size: 1.3em;
     padding: 5px 0;
+    font-family: fantasy;
 }
 
 nav li a:hover {
@@ -53,11 +55,11 @@ nav li a:hover {
 
 main {
     padding: 20px;
+    border-top: 2px solid rgb(0, 0, 0);
 }
 
 .col {
     padding: 10px;
-    border-top: 2px solid rgb(0, 0, 0);
 }
 
 footer {
@@ -66,7 +68,7 @@ footer {
     font-weight: bold;
     text-align: center;
     padding: 40px 0;
-    
+    font-family: fantasy;
 }
 
 .Button {
@@ -81,7 +83,7 @@ footer {
     text-align: center;
     border: 2px solid #000000;
     border-radius: 10px;
-    
+    font-family: fantasy;
 }
 
 
@@ -153,6 +155,6 @@ aside {
     }
 
     section img {
-        width: 75%;
+        width: 75%;   
     }
 }
