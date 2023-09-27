@@ -3,6 +3,12 @@ body {
     font-family: monospace;
 }
 
+video,audio {
+    display: block;
+    width: 55%;
+    margin: 20px auto;
+}
+
 img {
     display: block;
     margin: 0% auto;
